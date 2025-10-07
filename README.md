@@ -49,10 +49,10 @@ The project is built using multiple interrelated tables:
         USE PROJECT;
 3. Copy and run the script from **'RESTAURANT AND CONSUMER ANALYSIS.sql'** into your SQL client (MySQL 8+ recommended).
 4. Explore queries step by step:
-       - **Section A**: Basic filters ('WHERE')
-       - **Section B**: Joins & Subqueries
-       - **Section C**: Aggregations & Order of Execution ('GROUP BY', 'HAVING')
-       - **Section D**: Advanced SQL (CTEs, Window Functions, Views, Stored Procedures)
+   - **Section A**: Basic filters ('WHERE')
+   - **Section B**: Joins & Subqueries
+   - **Section C**: Aggregations & Order of Execution ('GROUP BY', 'HAVING')
+   - **Section D**: Advanced SQL (CTEs, Window Functions, Views, Stored Procedures)
 
 
 ## 🏁 Conclusion
